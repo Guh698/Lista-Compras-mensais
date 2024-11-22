@@ -170,7 +170,7 @@ ul li.checked::before {
 
 ul li span {
   position: absolute;
-  left: 60%;
+  left: 80%;
   top: 5px;
   width: 3%;
   height: 40px;
