@@ -265,7 +265,7 @@ ul li span:hover {
   ul li span {
     top: 5px;
     width: 3%;
-    left: 90%;
+    left: 110%;
   }
 }
 
@@ -305,7 +305,7 @@ ul li span:hover {
   ul li span {
     top: 5px;
     width: 3%;
-    left: 90%;
+    left: 110%;
     height: 50px;
     font-size: 35px;
   }
